@@ -1,4 +1,4 @@
-<h2>🚀 Integration of MySQL MCP Server with OpenAI LLM 🚀</h2>
+<h2>🚀 AI Powered Query Agent with MySQL Integration 🚀</h2>
 
 <p><strong>📝 Description:</strong>  
 Developed an MCP (Model Context Protocol) server that enables seamless interaction between OpenAI’s Large Language Model (LLM) and a MySQL database. This server acts as a context management layer, allowing the LLM to access and query structured data from the MySQL database in real-time, providing contextually relevant answers to user queries. 🤖💻</p>
